@@ -1,6 +1,3 @@
 # demo Text
 
-code hehe
-hello sit-User
-
-this line was added
+This is a demo code test for pushing
